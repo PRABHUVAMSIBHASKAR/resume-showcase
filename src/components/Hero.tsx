@@ -24,9 +24,9 @@ const Hero = () => {
             <Phone className="w-4 h-4" />
             <span>9550457066</span>
           </a>
-          <a href="mailto:bhaskar.chintalapudi@sasi.ac.in" className="inline-flex items-center gap-2 text-foreground/70 hover:text-primary transition-colors">
+          <a href="mailto:prem.baki@sasi.ac.in" className="inline-flex items-center gap-2 text-foreground/70 hover:text-primary transition-colors">
             <Mail className="w-4 h-4" />
-            <span>bhaskar.chintalapudi@sasi.ac.in</span>
+            <span>prem.baki@sasi.ac.in</span>
           </a>
           <span className="inline-flex items-center gap-2 text-foreground/70">
             <MapPin className="w-4 h-4" />

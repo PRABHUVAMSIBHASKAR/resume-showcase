@@ -19,7 +19,7 @@ const Contact = () => {
 
           <div className="grid md:grid-cols-2 gap-6 mb-8">
             <a 
-              href="mailto:bhaskar.chintalapudi@sasi.ac.in"
+              href="mailto:prem.baki@sasi.ac.in"
               className="flex items-center gap-3 p-4 rounded-lg bg-primary/5 hover:bg-primary/10 transition-colors group"
             >
               <div className="p-2 bg-primary/10 rounded-lg group-hover:bg-primary/20 transition-colors">
@@ -27,7 +27,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Email</p>
-                <p className="font-medium">bhaskar.chintalapudi@sasi.ac.in</p>
+                <p className="font-medium">prem.baki@sasi.ac.in</p>
               </div>
             </a>
 
@@ -81,7 +81,7 @@ const Contact = () => {
               className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-md"
               asChild
             >
-              <a href="mailto:bhaskar.chintalapudi@sasi.ac.in">Send Email</a>
+              <a href="mailto:prem.baki@sasi.ac.in">Send Email</a>
             </Button>
             <Button 
               size="lg" 
