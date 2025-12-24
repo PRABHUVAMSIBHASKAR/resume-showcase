@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="max-w-4xl mx-auto text-center animate-fade-in">
         <div className="mb-6">
           <h1 className="text-5xl md:text-7xl font-bold mb-4 text-gradient glow-text">
-            Baki Prem Pavan Reddy
+            Chintalapudi Prabhu Vamsi Bhaskar
           </h1>
           <p className="text-2xl md:text-3xl text-muted-foreground font-medium">
             Software Developer
@@ -24,9 +24,9 @@ const Hero = () => {
             <Phone className="w-4 h-4" />
             <span>9550457066</span>
           </a>
-          <a href="mailto:prem.baki@sasi.ac.in" className="inline-flex items-center gap-2 text-foreground/70 hover:text-primary transition-colors">
+          <a href="mailto:vamsichintalapudi873@gmail.com" className="inline-flex items-center gap-2 text-foreground/70 hover:text-primary transition-colors">
             <Mail className="w-4 h-4" />
-            <span>prem.baki@sasi.ac.in</span>
+            <span>vamsichintalapudi873@gmail.com</span>
           </a>
           <span className="inline-flex items-center gap-2 text-foreground/70">
             <MapPin className="w-4 h-4" />
