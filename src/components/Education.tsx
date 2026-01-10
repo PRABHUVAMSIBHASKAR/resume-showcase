@@ -8,7 +8,7 @@ const Education = () => {
       institution: "Sasi Institute of Technology and Engineering",
       university: "JNTU Kakinada",
       year: "2023 – Present",
-      grade: "7.6 CGPA",
+      grade: "7.8 CGPA",
       current: true,
     },
     {
