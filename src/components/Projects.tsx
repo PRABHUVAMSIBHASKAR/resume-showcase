@@ -13,7 +13,7 @@ const Projects = () => {
     },
     {
       icon: ShoppingCart,
-      title: "Flutter Shopping App",
+      title: "Ecommerce App by Using Flutter",
       description: "Created a shopping app featuring product listings, cart management, and Firebase authentication.",
       technologies: ["Flutter", "Firebase", "Mobile Development"],
       color: "bg-secondary/10 text-secondary",
